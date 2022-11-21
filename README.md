@@ -1,6 +1,6 @@
 ### 😄 Olá! Eu sou a Sabrina Barletta 👋
 
-- 🔭 Acadêmica de Análise e Desenvolvimento de Sistemas.
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/sabarletta">
